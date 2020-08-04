@@ -17,7 +17,7 @@ public class Task {
         // ⑥変数 hogeInt の値を表示
         System.out.print(hogeInt);
         // ⑦下記の処理について、何をしているのかコメントを記入してください
-        // コンソールへの出力時に、出力内容の末尾に 改行文字が入るか入らないか
+        // hogeStringを表示している
         System.out.println(hogeString);
 
         // ⑧変数 hogeDouble の値を表示
